@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **atulmishra5003@gmail.com**
 
-- ⚡ Fun fact **⚡ I'm always curious about how technology works.**
+- ⚡ Fun fact ** I'm always curious about how technology works.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
