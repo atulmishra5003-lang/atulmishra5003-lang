@@ -1,25 +1,39 @@
 <h1 align="center">Hi 👋, I'm Atul Mishra</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 💻 Tech Learner
+🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 💻 cloud computing
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Progress;Learning+AI+and+Cloud+Technologies;Always+Learning%2C+Always+Building+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Full+Stack+Developer;Learning+AI+and+Cloud+Technologies;Always+Learning%2C+Always+Building+🚀" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🌱 Currently learning **Full Stack Development**
-- 🤖 Exploring **Artificial Intelligence and Machine Learning**
-- ☁️ Interested in **Cloud Technologies**
-- 💻 Passionate about building modern web applications
-- 🚀 Continuously improving my programming skills
-- 🎯 Goal: Become a skilled **Software Developer**
-- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python**
+- 🌱 Currently upskilling in **Full Stack Development, AI, and Cloud Technologies**
+- 💻 Interested in building modern and scalable applications
+- 🚀 Continuously learning and improving my technical skills
+- 🎯 Focused on growing as a well-rounded developer
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, and Python**
 - ⚡ Fun fact: **I'm always curious about how technology works!**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/atul-mishra-a1203938a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:atulmishra5003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
+</a>
+
+</p>
 
 ---
 
@@ -33,35 +47,23 @@
 
 ---
 
-# 🌐 Connect With Me
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/atul-mishra-a1203938a/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=atulmishra5003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+/>
 
-<a href="mailto:atulmishra5003@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=atulmishra5003&show_icons=true&theme=tokyonight&hide_border=true"
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmishra5003&layout=compact&theme=tokyonight&hide_border=true"
 />
 
 </p>
 
 ---
 
-# 🔥 GitHub Contribution Streak
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -73,19 +75,7 @@ src="https://streak-stats.demolab.com?user=atulmishra5003&theme=tokyonight&hide_
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmishra5003&layout=compact&theme=tokyonight&hide_border=true"
-/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
@@ -97,19 +87,63 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=atulmishra50
 
 ---
 
+# 💻 Programming
+
+### Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+
+</p>
+
+### Backend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask" />
+
+</p>
+
+### Programming Languages
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+
+</p>
+
+### Database
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</p>
+
+### Tools & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,aws" />
+
+</p>
+
+---
+
 # 🚀 Featured Projects
 
-### 🌐 Portfolio Website
+### 🌐 Web Development Projects
 
-> My personal portfolio website showcasing my skills, projects, and journey as a developer.
+Projects built while learning modern web development.
 
 🔗 **Coming Soon**
 
 ---
 
-### 💻 Web Development Projects
+### 💻 Programming Projects
 
-> Collection of projects built using HTML, CSS, JavaScript, and modern web technologies.
+Projects based on **C, C++, and Python**.
 
 🔗 **Coming Soon**
 
@@ -117,7 +151,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=atulmishra50
 
 ### 🤖 AI Projects
 
-> Exploring Artificial Intelligence, fullstack with ai, and cloud computing.
+Exploring **Artificial Intelligence and Machine Learning** using Python.
 
 🔗 **Coming Soon**
 
@@ -131,11 +165,12 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=atulmishra50
 
 </p>
 
-### 📚 My Learning Journey
-
 ```text
 Frontend Development     ████████████░░░░
 Backend Development      ███████░░░░░░░░░
 Python Programming       ██████████░░░░░░
 Artificial Intelligence  ██████░░░░░░░░░░
 Cloud Computing          █████░░░░░░░░░░░
+
+
+
