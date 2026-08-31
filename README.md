@@ -52,12 +52,10 @@
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=atulmishra5003-lang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-/>
+src="https://github-readme-stats.vercel.app/api?username=atulmishra5003-lang&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmishra5003-lang&layout=compact&theme=tokyonight&hide_border=true"
-/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmishra5003-lang&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
