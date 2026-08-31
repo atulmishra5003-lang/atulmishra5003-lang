@@ -1,16 +1,141 @@
-<h1 align="center">Hi 👋, I'm ATUL MISHRA</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Atul Mishra</h1>
 
-- 💬 Ask me about **## 👨‍💻 About Me * 🌱 Currently upskilling in **Full Stack Development, AI, and Cloud Technologies** * 💻 Interested in building modern and scalable applications * 🚀 Continuously learning and improving my technical skills * 🎯 Focused on growing as a well-rounded developer**
+<h3 align="center">
+🚀 Aspiring Full Stack Developer | 🤖 AI Enthusiast | 💻 Tech Learner
+</h3>
 
-- 📫 How to reach me **atulmishra5003@gmail.com**
-
-- ⚡ Fun fact ** I'm always curious about how technology works.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atul-mishra-a1203938a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-mishra-a1203938a?utm_source=share_via&utm_content=profile&utm_medium=member_android" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer+in+Progress;Learning+AI+and+Cloud+Technologies;Always+Learning%2C+Always+Building+🚀" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+---
+
+# 👨‍💻 About Me
+
+- 🌱 Currently learning **Full Stack Development**
+- 🤖 Exploring **Artificial Intelligence and Machine Learning**
+- ☁️ Interested in **Cloud Technologies**
+- 💻 Passionate about building modern web applications
+- 🚀 Continuously improving my programming skills
+- 🎯 Goal: Become a skilled **Software Developer**
+- 💬 Ask me about **HTML, CSS, JavaScript, C++, Python**
+- ⚡ Fun fact: **I'm always curious about how technology works!**
+
+---
+
+# 🛠️ Languages and Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,python,nodejs,mysql,git,github,docker,linux,aws,flask" />
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/atul-mishra-a1203938a/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+
+<a href="mailto:atulmishra5003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=atulmishra5003&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=atulmishra5003&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulmishra5003&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=atulmishra5003&theme=tokyo-night&hide_border=true"
+/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+
+> My personal portfolio website showcasing my skills, projects, and journey as a developer.
+
+🔗 **Coming Soon**
+
+---
+
+### 💻 Web Development Projects
+
+> Collection of projects built using HTML, CSS, JavaScript, and modern web technologies.
+
+🔗 **Coming Soon**
+
+---
+
+### 🤖 AI Projects
+
+> Exploring Artificial Intelligence, fullstack with ai, and cloud computing.
+
+🔗 **Coming Soon**
+
+---
+
+# 🌱 Currently Learning
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,python,aws,docker" />
+
+</p>
+
+### 📚 My Learning Journey
+
+```text
+Frontend Development     ████████████░░░░
+Backend Development      ███████░░░░░░░░░
+Python Programming       ██████████░░░░░░
+Artificial Intelligence  ██████░░░░░░░░░░
+Cloud Computing          █████░░░░░░░░░░░
