@@ -172,24 +172,16 @@ Python Programming       ██████████░░░░░░
 Artificial Intelligence  ██████░░░░░░░░░░
 Cloud Computing          █████░░░░░░░░░░░
 
+---
+
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/atulmishra5003/atulmishra5003/output/github-contribution-grid-snake-dark.svg"
-    />
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/atulmishra5003/atulmishra5003/output/github-contribution-grid-snake.svg"
-    />
+<img 
+src="https://raw.githubusercontent.com/atulmishra5003-lang/atulmishra5003-lang/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake Animation"
+/>
 
-    <img
-      src="https://raw.githubusercontent.com/atulmishra5003/atulmishra5003/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake Animation"
-    />
-  </picture>
 </p>
 
