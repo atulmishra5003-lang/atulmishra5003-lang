@@ -172,7 +172,7 @@ Python Programming       ██████████░░░░░░
 Artificial Intelligence  ██████░░░░░░░░░░
 Cloud Computing          █████░░░░░░░░░░░
 
----
+
 
 <picture>
   <source
