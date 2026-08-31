@@ -174,14 +174,5 @@ Cloud Computing          █████░░░░░░░░░░░
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img 
-src="https://raw.githubusercontent.com/atulmishra5003-lang/atulmishra5003-lang/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake Animation"
-/>
-
-</p>
+github-contribution-grid-snake.svg
 
