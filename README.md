@@ -19,6 +19,9 @@
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, and Python**
 - ⚡ Fun fact: **I'm always curious about how technology works!**
 
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 ---
 
 ## 🌐 Connect With Me
