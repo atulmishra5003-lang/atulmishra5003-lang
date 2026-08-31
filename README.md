@@ -20,7 +20,7 @@
 - ⚡ Fun fact: **I'm always curious about how technology works!**
 
   ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=atulmishra5003-lang&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
